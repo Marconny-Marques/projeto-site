@@ -1,0 +1,43 @@
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+body {
+    background-color:rgb(72, 173, 173);
+
+}
+
+main {
+    background-color:whitesmoke;
+    width:50vw;
+    height: 65vh;
+    margin:auto;
+    padding:10px;
+    text-align: center;
+    box-shadow:3px 3px 5px solid black;
+}
+
+h1 {
+    font-size: 2em;
+    color: rgb(58, 0, 112);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(58, 0, 112);
+}
+
+img.lado {
+    float: right;
+}
+
+img {
+    width: 10vw;
+    height: 10vh;
+}
